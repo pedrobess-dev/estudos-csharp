@@ -12,3 +12,4 @@ C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#\obj\Debug\net10.0\refint\E
 C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#\obj\Debug\net10.0\Exercicios_C#.pdb
 C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#\obj\Debug\net10.0\Exercicios_C#.genruntimeconfig.cache
 C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#\obj\Debug\net10.0\ref\Exercicios_C#.dll
+C:\Users\CPD-PC03\Documents\Projetos C#\Exercicios_C#\obj\Debug\net10.0\Exercicios_C#.sourcelink.json
